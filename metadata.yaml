@@ -1,4 +1,8 @@
 _repo: The-Lady-of-North-Star_48237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48237-h/images/cover.jpg
 creator:
   author:
     agent_name: Binns, Ottwell
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9697
     wikipedia: https://en.wikipedia.org/wiki/Otwell_Binns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48237#The-Lady-of-North-Star
 gutenberg_issued: '2015-02-11'
 gutenberg_type: Text
 identifiers:
